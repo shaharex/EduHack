@@ -1,6 +1,6 @@
 # Data-Driven Curriculum landing page
 
-Visit the site: https://eduhacktr.vercel.app/
+Visit the site: https://eduhacktr.vercel.app
 
 ## Design tokens
 
