@@ -1,23 +1,6 @@
 # Data-Driven Curriculum landing page
 
-A responsive, one-page landing page built with plain HTML, CSS and JavaScript.
-
-## Run locally
-
-Open `index.html` in a browser, or run a local static server from this folder:
-
-```bash
-python -m http.server 8000
-```
-
-Then visit http://localhost:8000.
-
-## Before launch
-
-- Replace illustrative dashboard numbers and mockups with real product screenshots when available.
-- Connect the contact form to a backend endpoint or email service. It currently validates in the browser and displays a demo-only message; it does not transmit submissions.
-- Replace social/contact links if and when official project profiles and email are available.
-- If desired, add Russian and Kazakh translations.
+Visit the site: https://eduhacktr.vercel.app/
 
 ## Design tokens
 
